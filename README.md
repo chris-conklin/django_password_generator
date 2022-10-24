@@ -54,3 +54,11 @@ Now the home page is changed
 So views.py is like my app.py in flask
 
 
+The next few things:
+
+- getting pretty buttons and such
+- generating the password
+- html stuff 
+
+can all be viewed at https://github.com/chris-conklin/django_password_generator.git
+
